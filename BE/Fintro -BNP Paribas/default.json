@@ -1,0 +1,34 @@
+{
+    "initial-config-complete": false,
+    "has-headers": true,
+    "date-format": "d\/m\/Y",
+    "delimiter": ";",
+    "import-account": 1,
+    "specifics": [],
+    "column-count": 8,
+    "column-roles": [
+        "internal-reference",
+        "date-transaction",
+        "date-interest",
+        "amount",
+        "currency-code",
+        "opposing-iban",
+        "description",
+        "account-iban"
+    ],
+    "column-do-mapping": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ],
+    "column-roles-complete": false,
+    "column-mapping-config": [],
+    "column-mapping-complete": false,
+    "file-type": "csv",
+    "apply-rules": false
+}
